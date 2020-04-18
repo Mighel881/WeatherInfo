@@ -1,0 +1,9 @@
+Package: com.johnzaro.weatherinfo
+Name: WeatherInfo
+Depends: mobilesubstrate, com.peterdev.libpddokdo, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds Weather Information Module, Shows Current Weather Conditions For Local City
+Maintainer: Johnzaro <johnzrgnns@gmail.com>
+Author: Johnzaro <johnzrgnns@gmail.com>
+Section: Tweaks
